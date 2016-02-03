@@ -8,7 +8,8 @@ module App {
     }
 
     export class AppCtrl {
-        private public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1Q21QWlx3GqKjaLLwaq5fJb0eFwXouDMjk_cdideCHMk/pubhtml?gid=1695252245&single=true';
+        // private public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1Q21QWlx3GqKjaLLwaq5fJb0eFwXouDMjk_cdideCHMk/pubhtml?gid=1695252245&single=true';
+        private public_spreadsheet_url = 'https://docs.google.com/spreadsheets/d/1XQ3sBt5Y7ads4BW2h1DmrMiD_emG_4vK26Scw6X3GDM/pubhtml';
 
         // It provides $injector with information about dependencies to be injected into constructor
         // it is better to have it close to the constructor, because the parameters must match in count and type.
